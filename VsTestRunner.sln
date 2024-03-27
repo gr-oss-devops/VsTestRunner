@@ -33,7 +33,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VsTestRunner.Tests", "tests
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VsTestRunner.Nuke", "src\VsTestRunner.Nuke\VsTestRunner.Nuke.csproj", "{EA2F695B-EB35-4851-ACFD-4A82A3678926}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VsxTestRunner.Nuke.Tests", "tests\VsTestRunner.Nuke.Tests\VsTestRunner.Nuke.Tests.csproj", "{9FF2DEC0-DC2D-4B53-8B1F-63E916B4DABC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VsTestRunner.Nuke.Tests", "tests\VsTestRunner.Nuke.Tests\VsTestRunner.Nuke.Tests.csproj", "{9FF2DEC0-DC2D-4B53-8B1F-63E916B4DABC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
